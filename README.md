@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Senior Web Developer focusing on web applications. I like using react create web content. My country is 🇨🇳.
+
+- 🔭 I’m currently working at alibaba 
+- 🌱 I’m currently learning Svelte
+- 📫 How to reach me: zhangqing332@live.com
+- 💬 Ask me about react
+- 🏠 Suzhou.China 
+- 🌐 [中文主页](https://zq.beaf.tech/)
