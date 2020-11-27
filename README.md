@@ -23,3 +23,4 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 - 💬 Ask me about react
 - 🏠 Suzhou.China 
 - 🌐 [中文主页](https://zq.beaf.tech/)
+- ⚡ 😘javascript is best!
