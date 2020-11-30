@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Senior Web Developer focusing on web applications. I like using react create web content. My country is 🇨🇳.
+I'm a Senior Web Developer focusing on web applications. I like using react create web content.
 
 - 🔭 I’m currently working at alibaba for customer service system
 - 🌱 I’m currently learning Svelte
