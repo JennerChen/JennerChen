@@ -33,4 +33,10 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 
 ### Blog Posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [in vs hasOwnProperty](https://zqblog.beaf.tech/js/in-vs-hasOwnProperty/)
+- [algebraic effects 是什么](https://zqblog.beaf.tech/algebraic-effects/)
+- [何时重构代码](https://zqblog.beaf.tech/when-to-refactor-code/)
+- [git cherry pick](https://zqblog.beaf.tech/issue/git-cherry-pick/)
+- [git cannot lock ref](https://zqblog.beaf.tech/issue/git-cannot-lock-ref/)
+<!-- BLOG-POST-LIST:END -->
