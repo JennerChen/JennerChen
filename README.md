@@ -30,11 +30,6 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JennerChen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Recent Spend Time on
-
-[![Wwakatime_stats](https://wakatime.com/share/@1355c907-6b55-41b9-864b-3b01e4828373/f63121c7-772f-4edb-8cef-04cda623c8fe.png)](https://wakatime.com/)
-
-
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -44,3 +39,7 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 - [git cherry pick](https://zqblog.beaf.tech/issue/git-cherry-pick/)
 - [git cannot lock ref](https://zqblog.beaf.tech/issue/git-cannot-lock-ref/)
 <!-- BLOG-POST-LIST:END -->
+
+### Recent Spend Time on
+
+[![Wwakatime_stats](https://wakatime.com/share/@1355c907-6b55-41b9-864b-3b01e4828373/f63121c7-772f-4edb-8cef-04cda623c8fe.png)](https://wakatime.com/)
