@@ -26,6 +26,10 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 - 🌐 [中文主页](https://zq.beaf.tech/)
 - ⚡ 😘javascript is best!
 
+### Blog Posts
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
 ### My Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JennerChen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
