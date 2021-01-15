@@ -1,4 +1,4 @@
-### Hi there, 2021 👋
+## Hi there, 2021 👋
 
 <!--
 **JennerChen/JennerChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +25,7 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 - 🏠 Suzhou.China 
 - 🌐 [中文主页](https://zq.beaf.tech/)
 - ⚡ 😘javascript is best!
+
+### My Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JennerChen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
