@@ -33,11 +33,11 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [用markdown画流程图](https://zqblog.beaf.tech/markdown-diagram-intro/)
 - [in vs hasOwnProperty](https://zqblog.beaf.tech/js/in-vs-hasOwnProperty/)
 - [cookie完全教程](https://zqblog.beaf.tech/full-cookie-tutorial/)
 - [algebraic effects 是什么](https://zqblog.beaf.tech/algebraic-effects/)
 - [何时重构代码](https://zqblog.beaf.tech/when-to-refactor-code/)
-- [git cherry pick](https://zqblog.beaf.tech/issue/git-cherry-pick/)
 <!-- BLOG-POST-LIST:END -->
 
 [comment]: <> (### Recent Spend Time on)
