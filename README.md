@@ -38,6 +38,7 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 - html+css
 - svelte
 
+
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
