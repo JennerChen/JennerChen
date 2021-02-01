@@ -49,6 +49,6 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 - [何时重构代码](https://zqblog.beaf.tech/when-to-refactor-code/)
 <!-- BLOG-POST-LIST:END -->
 
-[comment]: <> (### Recent Spend Time on)
+### Recent Spend Time on
 
-[comment]: <> ([![Wwakatime_stats]&#40;https://wakatime.com/share/@1355c907-6b55-41b9-864b-3b01e4828373/f63121c7-772f-4edb-8cef-04cda623c8fe.png&#41;]&#40;https://wakatime.com/&#41;)
+[![Wwakatime_stats](https://wakatime.com/share/@1355c907-6b55-41b9-864b-3b01e4828373/f63121c7-772f-4edb-8cef-04cda623c8fe.png)](https://wakatime.com/);
