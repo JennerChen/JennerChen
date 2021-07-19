@@ -42,11 +42,11 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [个人filecoin 挖矿可行性分析](https://zqblog.beaf.tech/filecoin/filecoin-mining/)
 - [虚拟货币常见术语笔记](https://zqblog.beaf.tech/crypto/eth-faq/)
 - [dns 速查](https://zqblog.beaf.tech/issue/dns-lookup/)
 - [flex-box text-overflow 注意事项](https://zqblog.beaf.tech/css/flex-box-truncated-text/)
 - [css flexbox flex-end scroll-x not working](https://zqblog.beaf.tech/css/flexbox-flex-end-x-scroll-not-work/)
-- [css touch-action 应用](https://zqblog.beaf.tech/css/touch-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Spend Time on
