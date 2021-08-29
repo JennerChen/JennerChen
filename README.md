@@ -42,11 +42,11 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [自定义react render方法](https://zqblog.beaf.tech/custom-react-render/)
 - [typescript tsconfig 备忘录](https://zqblog.beaf.tech/typescript-ts-config-reference/)
 - [埋点 sendBeacon](https://zqblog.beaf.tech/beacon-api/)
 - [个人filecoin 挖矿可行性分析](https://zqblog.beaf.tech/filecoin/filecoin-mining/)
 - [虚拟货币常见术语笔记](https://zqblog.beaf.tech/crypto/eth-faq/)
-- [dns 速查](https://zqblog.beaf.tech/issue/dns-lookup/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Spend Time on
