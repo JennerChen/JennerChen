@@ -33,10 +33,7 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 
 ### My Skills
 
-- javascript
-- react
-- html+css
-- svelte
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JennerChen&show_icons=true&theme=highcontrast)](https://github.com/JennerChen/github-readme-stats)
 
 
 ### Blog Posts
