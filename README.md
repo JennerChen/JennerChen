@@ -19,6 +19,7 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 
 - 🔭 I’m currently working at alibaba for customer service system
 - 🌱 I’m currently learning ⛏️mining & crypto 
+- 🏃‍ I’m currently playing stepn
 - 🤔 I’m looking for some cool stuff about open source, welcome to contact
 - 📫 How to reach me: zhangqing332@live.com
 - 💬 Ask me about react
