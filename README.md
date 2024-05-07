@@ -40,11 +40,11 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [typescript window 如何type](https://zqblog.beaf.tech/ts-window-typing/)
+- [webstorm 使用手册](https://zqblog.beaf.tech/ideal/inlay-hints-usage/)
 - [open graph protocol 使用](https://zqblog.beaf.tech/open-graph-protocol/)
 - [iframe media 自动播放](https://zqblog.beaf.tech/iframe-media-autoplay/)
 - [typescript is keyword](https://zqblog.beaf.tech/ts-is-keyword/)
-- [eth sol dot 对比](https://zqblog.beaf.tech/eth-sol-dot-crypto-differences/)
-- [clash 实现vpn真正全局代理](https://zqblog.beaf.tech/clash-proxy-all-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Spend Time on
