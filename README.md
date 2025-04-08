@@ -24,7 +24,7 @@ I'm a Senior Web Developer focusing on web applications. I like using react crea
 - 📫 How to reach me: zhangqing332@live.com
 - 💬 Ask me about react
 - 🏠 Suzhou.China 
-- 🌐 [中文主页](https://zq.beaf.tech/)
+- 🌐 [中文主页](https://zq-zone.beaf.tech/)
 - ⚡ 😘javascript is best!
 
 ### My Stats
